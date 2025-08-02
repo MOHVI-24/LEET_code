@@ -93,5 +93,3 @@ class Solution:
     m = min(b1 + b2)
     return sum(min(x, 2*m) for x in swap[:len(swap)//2])"""
 
-
-""""""
